@@ -1,8 +1,7 @@
-# Project_Matthew
-
 # 🗣️ **Project Matthew: AI-Driven Conversational Agent**  
 
-![Chatbot](https://cdn.pixabay.com/photo/2021/01/28/11/12/robot-5956201_1280.png)  
+ ![chatbot-saying-hi](https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7)
+
 
 ---
 
