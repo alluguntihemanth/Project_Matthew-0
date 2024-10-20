@@ -88,14 +88,6 @@ For any queries, reach out to:
 
 ---
 
-## 🎨 **Aesthetic Color Palette**  
-- **Background**: #F0F4F8  
-- **Primary Accent**: #4A90E2  
-- **Secondary Accent**: #50E3C2  
-- **Text**: #4A4A4A  
-
----
-
 Enjoy chatting with Matthew! 😊
 
 
