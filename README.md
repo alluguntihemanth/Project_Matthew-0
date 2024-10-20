@@ -1,6 +1,8 @@
 # 🗣️ **Project Matthew: AI-Driven Conversational Agent**  
 
-<img src="https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7" alt="Chatbot Saying Hi" width="500" height="300" />  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7" alt="Chatbot Saying Hi" width="350" height="200" />
+</p>  
 
 ---
 
@@ -75,7 +77,7 @@ In the meantime, feel free to fork the repository and experiment with the code. 
 ---
 
 ## 📄 **License**  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.  
 
 ---
 
