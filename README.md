@@ -1,7 +1,7 @@
 # 🗣️ **Project Matthew: AI-Driven Conversational Agent**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7" alt="Chatbot Saying Hi" width="350" height="200" />
+  <img src="https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7" alt="Chatbot Saying Hi" width="300" />
 </p>  
 
 ---
