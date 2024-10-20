@@ -1,7 +1,6 @@
 # 🗣️ **Project Matthew: AI-Driven Conversational Agent**  
 
- ![chatbot-saying-hi](https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7)
-
+<img src="https://github.com/user-attachments/assets/bbfb94a8-a9ec-4415-a749-ab6efc62b6c7" alt="Chatbot Saying Hi" width="500" height="300" />  
 
 ---
 
@@ -33,6 +32,7 @@ This project leverages **modern NLP techniques** to provide a seamless chat expe
 
 ## 📁 **Directory Structure**  
 D:/ProjectMatthew/ │ ├── conv_agent/ │ ├── .streamlit/ │ ├── myenv/ │ ├── .env │ ├── app_1.py │ ├── chatbot-saying-hi.png │ └── requirements.txt
+
 
 ---
 
@@ -94,4 +94,5 @@ For any queries, reach out to:
 ---
 
 Enjoy chatting with Matthew! 😊
+
 
