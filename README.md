@@ -32,3 +32,66 @@ This project leverages **modern NLP techniques** to provide a seamless chat expe
 ---
 
 ## 📁 **Directory Structure**  
+D:/ProjectMatthew/ │ ├── conv_agent/ │ ├── .streamlit/ │ ├── myenv/ │ ├── .env │ ├── app_1.py │ ├── chatbot-saying-hi.png │ └── requirements.txt
+
+---
+
+## 🚀 **Run the Application**  
+1. **Prerequisites**  
+   - Install [Python](https://www.python.org/downloads/).  
+   - Install the required packages:  
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+2. **Launch the Application**  
+   - Navigate to the project directory:  
+     ```bash
+     cd D:/ProjectMatthew/conv_agent
+     ```
+   - Run the Streamlit app:  
+     ```bash
+     streamlit run app_1.py
+     ```
+
+---
+
+## 🌐 **Live Demo**  
+👉 [Project Matthew](https://projectmatthew-hemanthallugunti.streamlit.app)  
+
+---
+
+## 💬 **How It Works**  
+1. **User Input**: Users interact with the agent via a chat interface.  
+2. **NLP-Powered Responses**: The agent processes the input using Groq API models.  
+3. **Response Delivery**: It sends back personalized, context-aware messages.  
+
+---
+
+## 🤝 **Contributing**  
+Contributions are welcome! Feel free to fork the repository and open a pull request for improvements or bug fixes.  
+
+---
+
+## 📄 **License**  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 📧 **Contact**  
+For any queries, reach out to:  
+**Email**: yourname@example.com  
+**LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)  
+
+---
+
+## 🎨 **Aesthetic Color Palette**  
+- **Background**: #F0F4F8  
+- **Primary Accent**: #4A90E2  
+- **Secondary Accent**: #50E3C2  
+- **Text**: #4A4A4A  
+
+---
+
+Enjoy chatting with Matthew! 😊
+
