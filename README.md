@@ -57,7 +57,7 @@ D:/ProjectMatthew/ │ ├── conv_agent/ │ ├── .streamlit/ │ ├�
 ---
 
 ## 🌐 **Live Demo**  
-👉 [Project Matthew](https://projectmatthew-hemanthallugunti.streamlit.app)  
+👉 [Project Matthew](https://projectmatthew-0-alluguntihemanth.streamlit.app/)  
 
 ---
 
@@ -69,7 +69,8 @@ D:/ProjectMatthew/ │ ├── conv_agent/ │ ├── .streamlit/ │ ├�
 ---
 
 ## 🤝 **Contributing**  
-Contributions are welcome! Feel free to fork the repository and open a pull request for improvements or bug fixes.  
+We appreciate your interest! However, we are still finalizing the contribution process.  
+In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon.    
 
 ---
 
@@ -80,8 +81,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 **Contact**  
 For any queries, reach out to:  
-**Email**: yourname@example.com  
-**LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)  
+**Email**: hemanthallugunti@gmail.com  
+**LinkedIn**: [Hemanth Reddy Allugunti](https://www.linkedin.com/in/hemanth-reddy-allugunti-883b36216/)  
 
 ---
 
