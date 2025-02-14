@@ -70,12 +70,6 @@ D:/ProjectMatthew/ │ ├── conv_agent/ │ ├── .streamlit/ │ ├�
 
 ---
 
-## 🤝 **Contributing**  
-We appreciate your interest! However, we are still finalizing the contribution process.  
-In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon.    
-
----
-
 ## 📄 **License**  
 This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.  
 
